@@ -1,2 +1,1 @@
-# GaloisTheory
- Galois theory
+# Galois Theory
